@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Bruna Cristina",
+  "photo": "./assets/img/my-photo.png",
+  "job": "Desenvolvedora em formação",
+  "location": "Sorocaba - SP",
+  "phone": "(15) 99728-1412",
+  "email": "leonelxxb@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -12,67 +12,86 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Photoshop",
+        "logo": "./assets/img/photoshop.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Figma",
+        "logo": "./assets/img/figma.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Canva",
+        "logo": "./assets/img/canva.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "Visual Studio Code",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Dedicação",
+      "Aprendizado rápido",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Organização",
+      "Proatividade",
+      "Criativdade"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto feito para o curso da DIO - criação de uma Pokedex",
+      "url": "https://github.com/leonelbru/projeto-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto feito para o curso da DIO - página web responsiva com o modo 'claro/escuro'",
+      "url": "https://github.com/leonelbru/projeto-dio",
+      "github": true
+    },
+    {
+      "name": "Projeto feito para o curso da DIO - recriar o layout da Wikipédia mais moderno",
+      "url": "https://github.com/leonelbru/virginia-woolf-wiki",
+      "github": true
+    },
+    {
+      "name": "Classificador de herói em JavaScript - praticando lógica de programação",
+      "url": "https://github.com/leonelbru/classificador-de-heroi",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Estudante de Sistemas de Informação",
+      "period": "2025 - até o momento",
+      "description": "Tenho 30 anos e atualmente curso Sistemas de Informação (EAD), com foco em desenvolvimento front-end. Estou me aprofundando em HTML, CSS e JavaScript, com planos de expandir meus conhecimentos para React e Angular."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Freelancer em Design e Edição",
+      "period": "2013 - até o momento",
+      "description": "Atuo de forma independente em projetos de design desde 2013, com experiência em Photoshop, Figma, Canva e CorelDRAW. Criação de identidades visuais, layouts e materiais gráficos para pequenos negócios e projetos pessoais."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Construção de Portfólio em Desenvolvimento Web",
+      "period": "2025 - até o momento",
+      "description": "Em fase de transição de carreira, desenvolvendo projetos autorais para aprimorar minhas habilidades técnicas e consolidar um portfólio voltado para o desenvolvimento de interfaces modernas e funcionais."
     }
   ]
 }
